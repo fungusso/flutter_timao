@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "643855503512",
+    "project_id": "pizza-chef-db1d2",
+    "storage_bucket": "pizza-chef-db1d2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643855503512:android:b209f9904bff06fc5c00ed",
+        "android_client_info": {
+          "package_name": "com.example.flutter_aula1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9jr0ao2mZrZwPQ6Puyc1UG44r2IQuqOQ"
+        },
+        {
+          "current_key": "AIzaSyDnpPGc2-f0lh3RgNoZ3GancDWCrKCa6Z8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643855503512:android:892d7589a08bdc295c00ed",
+        "android_client_info": {
+          "package_name": "com.example.pizza_che"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9jr0ao2mZrZwPQ6Puyc1UG44r2IQuqOQ"
+        },
+        {
+          "current_key": "AIzaSyDnpPGc2-f0lh3RgNoZ3GancDWCrKCa6Z8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643855503512:android:faa14f51e256f1545c00ed",
+        "android_client_info": {
+          "package_name": "com.example.pizza_chef"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9jr0ao2mZrZwPQ6Puyc1UG44r2IQuqOQ"
+        },
+        {
+          "current_key": "AIzaSyDnpPGc2-f0lh3RgNoZ3GancDWCrKCa6Z8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643855503512:android:77176082077cb6bd5c00ed",
+        "android_client_info": {
+          "package_name": "firebase_options.dart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9jr0ao2mZrZwPQ6Puyc1UG44r2IQuqOQ"
+        },
+        {
+          "current_key": "AIzaSyDnpPGc2-f0lh3RgNoZ3GancDWCrKCa6Z8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
